@@ -64,7 +64,7 @@ def proces_message(message:Message):
 bot.polling(none_stop=True, interval=0)
 
 
-
+ad='udali'
 
 
 
